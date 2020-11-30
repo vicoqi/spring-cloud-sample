@@ -11,6 +11,8 @@ springboot-feign-comsumer           采用feign方式的消费端模块
 ### 启动方式
 springboot-eureka 开放的端口是8081，springboot-provider 开放的端口是8082，springboot-feign-comsumer 开放的端口是8084， 启动各自的springboot application 类。
 
+打开浏览器输入：http://localhost:8081 就能看到 eureka 注册中心界面了。
+
 ### 采用的一下springCloud 技术
 
 springCloud eureka  作为服务注册中心
