@@ -8,6 +8,8 @@ springboot-provider                 服务端提供者模块
 restful-provider-api-definition     共享的api接口模块   
 springboot-feign-comsumer           采用feign方式的消费端模块
 
+### 启动方式
+springboot-eureka 开放的端口是8081，springboot-provider 开放的端口是8082，springboot-feign-comsumer 开放的端口是8084， 启动各自的springboot application 类。
 
 ### 采用的一下springCloud 技术
 
