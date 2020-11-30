@@ -3,7 +3,10 @@
 采用共享 api 接口的方式
 
 ### 模块介绍
-
+springboot-eureka                   eureka server 应用模块
+springboot-provider                 服务端提供者模块
+restful-provider-api-definition     共享的api接口模块   
+springboot-feign-comsumer           采用feign方式的消费端模块
 
 
 ### 采用的一下springCloud 技术
