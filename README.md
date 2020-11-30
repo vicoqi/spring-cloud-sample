@@ -1,6 +1,7 @@
-# springcloud 入门样例分支 --V1
+# springcloud 入门样例分支 --V1 版本
 
-采用共享 api 接口的方式
+简单的服务注册，服务发现与调用。
+特色：采用共享 api 接口的方式
 
 ### 模块介绍
 springboot-eureka                   eureka server 应用模块
