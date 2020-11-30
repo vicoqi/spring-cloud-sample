@@ -7,7 +7,7 @@
 ### 模块介绍
 - springboot-eureka                   eureka server 应用模块
 - springboot-provider                 服务端提供者模块
-- restful-provider-api-definition     共享的api接口模块   
+- springboot-provider-api             共享的api接口模块   
 - springboot-feign-comsumer           采用feign方式的消费端模块
 
 ### 启动方式
