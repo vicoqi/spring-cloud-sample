@@ -15,7 +15,7 @@ springboot-eureka 开放的端口是8081，springboot-provider 开放的端口�
 
 打开浏览器输入：http://localhost:8081 就能看到 eureka 注册中心界面了。
 
-### 采用的一下springCloud 技术
+### 采用 springCloud 集合中的组件
 
 springCloud eureka  作为服务注册中心
 
